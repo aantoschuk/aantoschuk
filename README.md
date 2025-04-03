@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Current Playing Image](https://test-nine-pi-26.vercel.app/current-playing)
+
 <!--
 **aantoschuk/aantoschuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
