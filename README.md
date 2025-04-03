@@ -13,7 +13,7 @@ I'm passionate about creating efficient and scalable solutions that solve real-w
 
 ### Spotify Current Song
 
-![Current Playing Image](https://test-nine-pi-26.vercel.app/current-playing)
+![Current Playing Image](https://spotify-current-playing-liard.vercel.app/current-playing)
 
 ### How to Reach Me
 
