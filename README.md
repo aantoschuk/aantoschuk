@@ -3,19 +3,21 @@
 I'm Alexander Antoshchuk, a Software Engineer with experience in various areas of software development.
 I'm passionate about creating efficient and scalable solutions that solve real-world problems.
 
-### About Me
+- Currently, I'm focussed on TS and Go
+- Always open to collaboration and new opportunities
 
-💻 Programming Languages: TypeScript, JavaScript, Golang
-
-🌐 Technologies: React, Node.js, Next.js, Tailwind
-
-🛠️ Tools: Git, Docker
-
-### Spotify Current Song
+## Spotify Current Song
 
 ![Current Playing Image](https://spotify-current-playing-liard.vercel.app/current-playing)
 
-### How to Reach Me
+## GitHub Stats
+
+![](https://raw.githubusercontent.com/aantoschuk/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/aantoschuk/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/aantoschuk/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/aantoschuk/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+## How to Reach Me
 
 If you have any questions or suggestions, feel free to contact me:
 
