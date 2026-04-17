@@ -3,10 +3,9 @@
 I'm Alexander Antoshchuk, a Software Engineer with experience in various areas of software development.
 I'm passionate about creating efficient and scalable solutions that solve real-world problems.
 
-- Currently, I'm focussed on TS and Go
-- Always open to collaboration and new opportunities
+## Spotify Current Song[^1]
 
-## Spotify Current Song
+[^1]: After the Spotify API changes, it can work inconsistently because I am not a Premium user and do not have extended quota access.
 
 ![Current Playing Image](https://spotify-current-playing-liard.vercel.app/current-playing)
 
@@ -21,7 +20,9 @@ I'm passionate about creating efficient and scalable solutions that solve real-w
 
 If you have any questions or suggestions, feel free to contact me:
 
-Email: alexander.antoshchuk@proton.me
+Email: alexander.antoschuk.dev@gmail.com
+
+Linkedin: https://www.linkedin.com/in/alexander-antoshchuk-1ba141181/
 
 Instagram: @xtlhv\_
 
